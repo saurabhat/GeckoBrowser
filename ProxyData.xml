@@ -1,26 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ProxyData>
-
-    <Title>//*[@id="title_input"]</Title>
-    <FirstName>/html/body/div[1]/div[3]/div[2]/div/table/tbody/tr[3]/td[1]/div/div[3]/label</FirstName>
-    <LastName>/html/body/div[1]/div[3]/div[2]/div/table/tbody/tr[5]/td[1]/div/div[3]/label</LastName>
-    <AccountCode>/html/body/div[1]/div[3]/div[2]/div/table/tbody/tr[2]/td[2]/div/div[3]/label</AccountCode>
-
-    <HouseNumber>//*[@id="buildNo_input"]</HouseNumber>
-    <BuildingName>//*[@id="buildName_input"]</BuildingName>
-    <AddressLine1>//*[@id="1stLineAddress_input"]</AddressLine1>
-    <AddressLine2>//*[@id="2ndLineAddress_input"]</AddressLine2>
-    <Town>//*[@id="city_input"]</Town>
-    <Country>//*[@id="county_input"]</Country>
-    <Postcode>//*[@id="postcode_input"]</Postcode>
-
-    <SortCode>//*[@id="dicBankKey_input"]</SortCode>
-    <AccountNumber>/html/body/div[1]/div[6]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[3]/div/div[3]/label</AccountNumber>
-    <BankName>/html/body/div[1]/div[6]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td[1]/div/div[3]/label</BankName>
-
-    <NameOnCard>/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[1]/div/div[3]/label</NameOnCard>
-    <CardNumber>/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</CardNumber>
-    <CardType>/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[3]/div/div[3]/label</CardType>
-    <ExpiryDate>/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td[1]/div/div[3]/label</ExpiryDate>
-
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProxyData>  
+  <SortCode>//*[@id="dicBankKey_input"]</SortCode>
+  <AccountNumber>/html/body/div[1]/div[6]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[3]/div/div[3]/label</AccountNumber>
 </ProxyData>
