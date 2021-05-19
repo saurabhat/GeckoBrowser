@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProxyData>
-
+  <Frame id="acctInformation" xpath="">
     <Title>//*[@id="title_input"]</Title>
     <FirstName>/html/body/div[1]/div[3]/div[2]/div/table/tbody/tr[3]/td[1]/div/div[3]/label</FirstName>
     <LastName>/html/body/div[1]/div[3]/div[2]/div/table/tbody/tr[5]/td[1]/div/div[3]/label</LastName>
@@ -22,5 +22,5 @@
     <CardNumber>/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</CardNumber>
     <CardType>/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[3]/div/div[3]/label</CardType>
     <ExpiryDate>/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td[1]/div/div[3]/label</ExpiryDate>
-
+  </Frame>
 </ProxyData>
