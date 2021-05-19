@@ -23,8 +23,8 @@
     <CardType>/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[3]/div/div[3]/label</CardType>
     <ExpiryDate>/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td[1]/div/div[3]/label</ExpiryDate>
   </Frame>
-  <Frame id="" xpath="//*[@id='zSubscriberInfo_SubscriberDetail_iframe']">
-      <SSN>/html/body/div[1]/div[2]/table/tbody/tr[2]/td/div/div[2]/div/table/tbody/tr[3]/td[2]/div/div[3]/label</SSN>
-      <IMSI>/html/body/div[1]/div[2]/table/tbody/tr[2]/td/div/div[2]/div/table/tbody/tr[4]/td[2]/div/div[3]/label</IMSI>
+  <Frame id="" xpath="//*[@id=&quot;zSubscriberInfo_SubscriberDetail_iframe&quot;]">
+    <SSN>/html/body/div[1]/div[2]/table/tbody/tr[2]/td/div/div[2]/div/table/tbody/tr[3]/td[2]/div/div[3]/label</SSN>
+    <IMSI>/html/body/div[1]/div[2]/table/tbody/tr[2]/td/div/div[2]/div/table/tbody/tr[4]/td[2]/div/div[3]/label</IMSI>
   </Frame>
 </ProxyData>
