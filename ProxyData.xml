@@ -16,7 +16,7 @@
 
     <SortCode type="label">//*[@id="dicBankKey_input"]</SortCode>
     <AccountNumber type="label">/html/body/div[1]/div[6]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[3]/div/div[3]/label</AccountNumber>
-    <BankName type="label">/html/body/div[1]/div[6]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td[1]/div/div[3]/label"</BankName>
+    <BankName type="label">/html/body/div[1]/div[6]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td[1]/div/div[3]/label</BankName>
 
     <NameOnCard type="label">/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[1]/div/div[3]/label</NameOnCard>
     <CardNumber type="label">/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</CardNumber>
