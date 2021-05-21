@@ -35,7 +35,7 @@
   <Frame id="" elementId="acctInformation_content" xpath="">
     <ModifyAccountNumber type="text">/html/body/div[1]/div[5]/div[4]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</ModifyAccountNumber>
     <ModifyAccountCardNumber type="text">/html/body/div[1]/div[5]/div[5]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</ModifyAccountCardNumber>
-    <ModifyAccountTitle type="value">//*[@id="title_input_select"]</ModifyAccountTitle>
+    <ModifyAccountTitle type="option">//*[@id="title_input_select"]</ModifyAccountTitle>
     <ModifyAccountFirstName type="value">//*[@id="name1_input_value"]</ModifyAccountFirstName>
     <ModifyAccountLastName type="value">//*[@id="name3_input_value"]</ModifyAccountLastName>
   </Frame>
