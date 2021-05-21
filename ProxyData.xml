@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProxyData>
   <Frame id="" elementId="acctInformation" xpath="">
-    <Title type="label">//*[@id="title_input"]</Title>
-    <FirstName type="label">/html/body/div[1]/div[3]/div[2]/div/table/tbody/tr[3]/td[1]/div/div[3]/label</FirstName>
-    <LastName type="label">/html/body/div[1]/div[3]/div[2]/div/table/tbody/tr[5]/td[1]/div/div[3]/label</LastName>
-    <AccountCode type="label">/html/body/div[1]/div[3]/div[2]/div/table/tbody/tr[2]/td[2]/div/div[3]/label</AccountCode>
+    <Title type="text">//*[@id="title_input"]</Title>
+    <FirstName type="text">/html/body/div[1]/div[3]/div[2]/div/table/tbody/tr[3]/td[1]/div/div[3]/label</FirstName>
+    <LastName type="text">/html/body/div[1]/div[3]/div[2]/div/table/tbody/tr[5]/td[1]/div/div[3]/label</LastName>
+    <AccountCode type="text">/html/body/div[1]/div[3]/div[2]/div/table/tbody/tr[2]/td[2]/div/div[3]/label</AccountCode>
 
-    <HouseNumber type="label">//*[@id="buildNo_input"]</HouseNumber>
-    <BuildingName type="label">//*[@id="buildName_input"]</BuildingName>
-    <AddressLine1 type="label">//*[@id="1stLineAddress_input"]</AddressLine1>
-    <AddressLine2 type="label">//*[@id="2ndLineAddress_input"]</AddressLine2>
-    <Town type="label">//*[@id="city_input"]</Town>
-    <Country type="label">//*[@id="county_input"]</Country>
-    <Postcode type="label">//*[@id="postcode_input"]</Postcode>
+    <HouseNumber type="text">//*[@id="buildNo_input"]</HouseNumber>
+    <BuildingName type="text">//*[@id="buildName_input"]</BuildingName>
+    <AddressLine1 type="text">//*[@id="1stLineAddress_input"]</AddressLine1>
+    <AddressLine2 type="text">//*[@id="2ndLineAddress_input"]</AddressLine2>
+    <Town type="text">//*[@id="city_input"]</Town>
+    <Country type="text">//*[@id="county_input"]</Country>
+    <Postcode type="text">//*[@id="postcode_input"]</Postcode>
 
-    <SortCode type="label">//*[@id="dicBankKey_input"]</SortCode>
-    <AccountNumber type="label">/html/body/div[1]/div[6]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[3]/div/div[3]/label</AccountNumber>
-    <BankName type="label">/html/body/div[1]/div[6]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td[1]/div/div[3]/label</BankName>
+    <SortCode type="text">//*[@id="dicBankKey_input"]</SortCode>
+    <AccountNumber type="text">/html/body/div[1]/div[6]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[3]/div/div[3]/label</AccountNumber>
+    <BankName type="text">/html/body/div[1]/div[6]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td[1]/div/div[3]/label</BankName>
 
-    <NameOnCard type="label">/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[1]/div/div[3]/label</NameOnCard>
-    <CardNumber type="label">/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</CardNumber>
-    <CardType type="label">/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[3]/div/div[3]/label</CardType>
-    <ExpiryDate type="label">/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td[1]/div/div[3]/label</ExpiryDate>
+    <NameOnCard type="text">/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[1]/div/div[3]/label</NameOnCard>
+    <CardNumber type="text">/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</CardNumber>
+    <CardType type="text">/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[3]/div/div[3]/label</CardType>
+    <ExpiryDate type="text">/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td[1]/div/div[3]/label</ExpiryDate>
   </Frame>
   <Frame id="zSubscriberInfo_SubscriberDetail_iframe" elementId="" xpath="">
-    <SubscriberSSN type="label">/html/body/div[1]/div[2]/table/tbody/tr[2]/td/div/div[2]/div/table/tbody/tr[3]/td[2]/div/div[3]/label</SubscriberSSN>
-    <SubscriberIMSI type="label">/html/body/div[1]/div[2]/table/tbody/tr[2]/td/div/div[2]/div/table/tbody/tr[4]/td[2]/div/div[3]/label</SubscriberIMSI>
+    <SubscriberSSN type="text">/html/body/div[1]/div[2]/table/tbody/tr[2]/td/div/div[2]/div/table/tbody/tr[3]/td[2]/div/div[3]/label</SubscriberSSN>
+    <SubscriberIMSI type="text">/html/body/div[1]/div[2]/table/tbody/tr[2]/td/div/div[2]/div/table/tbody/tr[4]/td[2]/div/div[3]/label</SubscriberIMSI>
   </Frame>
   <Frame id="zSubscriberInfo_SubSimNew_iframe" elementId="" xpath="">
-    <SimManagementSSN type="label">/html/body/div[1]/div[3]/div[2]/div/table/tbody/tr[2]/td/div/div[2]/div[3]/table/tbody/tr/td[4]/span/label</SimManagementSSN>
-    <SimManagementIMSI type="label">/html/body/div[1]/div[3]/div[2]/div/table/tbody/tr[2]/td/div/div[2]/div[3]/table/tbody/tr/td[5]/span/label</SimManagementIMSI>
-    <SimManagementICCID type="label">/html/body/div[1]/div[4]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[7]/td/div/div[3]/label</SimManagementICCID>
+    <SimManagementSSN type="text">/html/body/div[1]/div[3]/div[2]/div/table/tbody/tr[2]/td/div/div[2]/div[3]/table/tbody/tr/td[4]/span/label</SimManagementSSN>
+    <SimManagementIMSI type="text">/html/body/div[1]/div[3]/div[2]/div/table/tbody/tr[2]/td/div/div[2]/div[3]/table/tbody/tr/td[5]/span/label</SimManagementIMSI>
+    <SimManagementICCID type="text">/html/body/div[1]/div[4]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[7]/td/div/div[3]/label</SimManagementICCID>
   </Frame>
   <Frame id="" elementId="acctInformation_content" xpath="">
-    <ModifyAccountNumber type="label">/html/body/div[1]/div[5]/div[4]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</ModifyAccountNumber>
-    <ModifyAccountCardNumber type="label">/html/body/div[1]/div[5]/div[5]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</ModifyAccountCardNumber>
-    <ModifyAccountTitle type="text">//*[@id="title_input_select"]</ModifyAccountTitle>
-    <ModifyAccountFirstName type="text">//*[@id="name1_input_value"]</ModifyAccountFirstName>
-    <ModifyAccountLastName type="text">//*[@id="name3_input_value"]</ModifyAccountLastName>
+    <ModifyAccountNumber type="text">/html/body/div[1]/div[5]/div[4]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</ModifyAccountNumber>
+    <ModifyAccountCardNumber type="text">/html/body/div[1]/div[5]/div[5]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</ModifyAccountCardNumber>
+    <ModifyAccountTitle type="value">//*[@id="title_input_select"]</ModifyAccountTitle>
+    <ModifyAccountFirstName type="value">//*[@id="name1_input_value"]</ModifyAccountFirstName>
+    <ModifyAccountLastName type="value">//*[@id="name3_input_value"]</ModifyAccountLastName>
   </Frame>
   <Frame id="" elementId="editPanle_content" xpath="">
-    <CurrentSSN type="text">//*[@id="oldsimid_input_value"]</CurrentSSN>
+    <CurrentSSN type="value">//*[@id="oldsimid_input_value"]</CurrentSSN>
   </Frame>
 </ProxyData>
