@@ -55,4 +55,37 @@
     <ModifySSN type="text">//*[@id="ssn_input"]</ModifySSN>
     <ModifyIMSI type="text">//*[@id="IMSI_input"]</ModifyIMSI>
   </Frame>
+  <Frame id="zBusinessAccept_CustPortalVMCtz_iframe" elementId="" xpath="">
+    <CustomerPortalFirstName type="text">/html/body/div[1]/div[2]/table/tbody/tr[2]/td[1]/div/div[2]/div/table/tbody/tr[3]/td[1]/div/div[3]/label</CustomerPortalFirstName>
+    <CustomerPortalLastName type="text">/html/body/div[1]/div[2]/table/tbody/tr[2]/td[1]/div/div[2]/div/table/tbody/tr[5]/td[1]/div/div[3]/label</CustomerPortalLastName>  
+    <CustomerPortalHouseNumber type="text">/html/body/div[1]/div[2]/table/tbody/tr[2]/td[1]/div/div[2]/div/table/tbody/tr[6]/td[1]/div/div[3]/label</CustomerPortalHouseNumber>
+    <CustomerPortalBuildingName type="text">/html/body/div[1]/div[2]/table/tbody/tr[2]/td[1]/div/div[2]/div/table/tbody/tr[7]/td[1]/div/div[3]/label</CustomerPortalBuildingName>
+    <CustomerPortalAddressLine1 type="text">/html/body/div[1]/div[2]/table/tbody/tr[2]/td[1]/div/div[2]/div/table/tbody/tr[8]/td[1]/div/div[3]/label</CustomerPortalAddressLine1>
+    <CustomerPortalAddressLine2 type="text">/html/body/div[1]/div[2]/table/tbody/tr[2]/td[1]/div/div[2]/div/table/tbody/tr[9]/td[1]/div/div[3]/label</CustomerPortalAddressLine2>
+    <CustomerPortalTown type="text">/html/body/div[1]/div[2]/table/tbody/tr[2]/td[1]/div/div[2]/div/table/tbody/tr[10]/td[1]/div/div[3]/label</CustomerPortalTown>
+    <CustomerPortalCountry type="text">/html/body/div[1]/div[2]/table/tbody/tr[2]/td[1]/div/div[2]/div/table/tbody/tr[11]/td[1]/div/div[3]/label</CustomerPortalCountry>
+    <CustomerPortalPostCode type="text">/html/body/div[1]/div[2]/table/tbody/tr[2]/td[1]/div/div[2]/div/table/tbody/tr[12]/td[1]/div/div[3]/label</CustomerPortalPostCode>
+  </Frame>
+  <Frame id="" elementId="custinformation_content" xpath="">
+    <CustomerFirstName type="text">//*[@id="firstName_input"]</CustomerFirstName>
+    <CustomerLastName type="text">//*[@id="lastName_input"]</CustomerLastName>  
+    <CustomerHouseNumber type="text">/html/body/div[1]/div[4]/table/tbody/tr[2]/td/div/div[1]/div[2]/div/table/tbody/tr[2]/td/div/div[3]/label</CustomerHouseNumber>
+    <CustomerBuildingName type="text">/html/body/div[1]/div[4]/table/tbody/tr[2]/td/div/div[1]/div[2]/div/table/tbody/tr[3]/td/div/div[3]/label</CustomerBuildingName>
+    <CustomerAddressLine1 type="text">/html/body/div[1]/div[4]/table/tbody/tr[2]/td/div/div[1]/div[2]/div/table/tbody/tr[4]/td/div/div[3]/label</CustomerAddressLine1>
+    <CustomerAddressLine2 type="text">/html/body/div[1]/div[4]/table/tbody/tr[2]/td/div/div[1]/div[2]/div/table/tbody/tr[5]/td/div/div[3]/label</CustomerAddressLine2>
+    <CustomerTown type="text">/html/body/div[1]/div[4]/table/tbody/tr[2]/td/div/div[1]/div[2]/div/table/tbody/tr[6]/td/div/div[3]/label</CustomerTown>
+    <CustomerCountry type="text">/html/body/div[1]/div[4]/table/tbody/tr[2]/td/div/div[1]/div[2]/div/table/tbody/tr[7]/td/div/div[3]/label</CustomerCountry>
+    <CustomerPostCode type="text">/html/body/div[1]/div[4]/table/tbody/tr[2]/td/div/div[1]/div[2]/div/table/tbody/tr[8]/td/div/div[3]/label</CustomerPostCode>
+    <CustomerOfficeHouseNumber type="text">/html/body/div[1]/div[4]/table/tbody/tr[2]/td/div/div[2]/div[2]/div/table/tbody/tr[2]/td/div/div[3]/label</CustomerOfficeHouseNumber>
+    <CustomerOfficeBuildingName type="text">/html/body/div[1]/div[4]/table/tbody/tr[2]/td/div/div[2]/div[2]/div/table/tbody/tr[3]/td/div/div[3]/label</CustomerOfficeBuildingName>
+    <CustomerOfficeAddressLine1 type="text">/html/body/div[1]/div[4]/table/tbody/tr[2]/td/div/div[2]/div[2]/div/table/tbody/tr[4]/td/div/div[3]/label</CustomerOfficeAddressLine1>
+    <CustomerOfficeAddressLine2 type="text">/html/body/div[1]/div[4]/table/tbody/tr[2]/td/div/div[2]/div[2]/div/table/tbody/tr[5]/td/div/div[3]/label</CustomerOfficeAddressLine2>
+    <CustomerOfficeTown type="text">/html/body/div[1]/div[4]/table/tbody/tr[2]/td/div/div[2]/div[2]/div/table/tbody/tr[6]/td/div/div[3]/label</CustomerOfficeTown>
+    <CustomerOfficeCountry type="text">/html/body/div[1]/div[4]/table/tbody/tr[2]/td/div/div[2]/div[2]/div/table/tbody/tr[7]/td/div/div[3]/label</CustomerOfficeCountry>
+    <CustomerOfficePostCode type="text">/html/body/div[1]/div[4]/table/tbody/tr[2]/td/div/div[2]/div[2]/div/table/tbody/tr[8]/td/div/div[3]/label</CustomerOfficePostCode>
+  </Frame>
+  <Frame id="" elementId="custBaseInfo" xpath="">
+    <CustomerBaseFirstName type="text">/html/body/div[1]/div[2]/table/tbody/tr[2]/td[2]/div/div[2]/div/table/tbody/tr[2]/td[1]/div/div[3]/label</CustomerBaseFirstName>
+    <CustomerBaseLastName type="text">/html/body/div[1]/div[2]/table/tbody/tr[2]/td[2]/div/div[2]/div/table/tbody/tr[3]/td[1]/div/div[3]/label</CustomerBaseLastName> 
+  </Frame>
 </ProxyData>
