@@ -38,7 +38,14 @@
   </Frame>
   <Frame id="" elementId="acctInformation_content" xpath="">
     <ModifyAccountNumber type="text">/html/body/div[1]/div[5]/div[4]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</ModifyAccountNumber>
-    <ModifyAccountCardNumber type="text">/html/body/div[1]/div[5]/div[5]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</ModifyAccountCardNumber>    
+    <ModifyAccountCardNumber1 type="text">/html/body/div[1]/div[5]/div[5]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</ModifyAccountCardNumber>  
+    <ModifyAccountCardNumber2 type="text">/html/body/div[1]/div[5]/div[3]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</ModifyAccountCardNumber2>  
+    <ModifyAccountNameOnCard1 type="text">/html/body/div[1]/div[5]/div[5]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[1]/div/div[3]/label</ModifyAccountNameOnCard1>
+    <ModifyAccountNameOnCard2 type="text">/html/body/div[1]/div[5]/div[3]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[1]/div/div[3]/label</ModifyAccountNameOnCard2>
+    <ModifyAccountCardType1 type="text">/html/body/div[1]/div[5]/div[5]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[3]/div/div[3]/label</ModifyAccountCardType1>
+    <ModifyAccountCardType2 type="text">/html/body/div[1]/div[5]/div[3]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[3]/div/div[3]/label</ModifyAccountCardType2>
+    <ModifyAccountExpiryDate1 type="text">/html/body/div[1]/div[5]/div[5]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td[1]/div/div[3]/label</ModifyAccountExpiryDate1>
+    <ModifyAccountExpiryDate2 type="text">/html/body/div[1]/div[5]/div[3]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td[1]/div/div[3]/label</ModifyAccountExpiryDate2>
     <ModifyAccountFirstName type="value">//*[@id="name1_input_value"]</ModifyAccountFirstName>
     <ModifyAccountLastName type="value">//*[@id="name3_input_value"]</ModifyAccountLastName>
   </Frame>
