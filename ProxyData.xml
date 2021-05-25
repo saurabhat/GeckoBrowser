@@ -38,8 +38,8 @@
   </Frame>
   <Frame id="" elementId="acctInformation_content" xpath="">
     <ModifyAccountNumber type="text">/html/body/div[1]/div[5]/div[4]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</ModifyAccountNumber>
-    <ModifyAccountCardNumber1 type="text">/html/body/div[1]/div[5]/div[5]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</ModifyAccountCardNumber>  
-    <ModifyAccountCardNumber2 type="text">/html/body/div[1]/div[5]/div[3]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</ModifyAccountCardNumber2>  
+    <ModifyAccountCardNumber1 type="text">/html/body/div[1]/div[5]/div[5]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</ModifyAccountCardNumber1>
+    <ModifyAccountCardNumber2 type="text">/html/body/div[1]/div[5]/div[3]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</ModifyAccountCardNumber2>
     <ModifyAccountNameOnCard1 type="text">/html/body/div[1]/div[5]/div[5]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[1]/div/div[3]/label</ModifyAccountNameOnCard1>
     <ModifyAccountNameOnCard2 type="text">/html/body/div[1]/div[5]/div[3]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[1]/div/div[3]/label</ModifyAccountNameOnCard2>
     <ModifyAccountCardType1 type="text">/html/body/div[1]/div[5]/div[5]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[3]/div/div[3]/label</ModifyAccountCardType1>
