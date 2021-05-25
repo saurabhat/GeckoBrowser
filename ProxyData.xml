@@ -86,6 +86,24 @@
   </Frame>
   <Frame id="" elementId="custBaseInfo" xpath="">
     <CustomerBaseFirstName type="text">/html/body/div[1]/div[2]/table/tbody/tr[2]/td[2]/div/div[2]/div/table/tbody/tr[2]/td[1]/div/div[3]/label</CustomerBaseFirstName>
-    <CustomerBaseLastName type="text">/html/body/div[1]/div[2]/table/tbody/tr[2]/td[2]/div/div[2]/div/table/tbody/tr[3]/td[1]/div/div[3]/label</CustomerBaseLastName> 
+    <CustomerBaseLastName type="text">/html/body/div[1]/div[2]/table/tbody/tr[2]/td[2]/div/div[2]/div/table/tbody/tr[3]/td[1]/div/div[3]/label</CustomerBaseLastName>
+  </Frame>
+  <Frame id="" elementId="chgCustCell1" xpath="">
+    <CustomerChangeFirstName type="value">//*[@id="name1_input_value"]</CustomerChangeFirstName>
+    <CustomerChangeLastName type="value">//*[@id="name3_input_value"]</CustomerChangeLastName>  
+    <CustomerChangeHouseNumber type="text">//*[@id="homeAddrBuidNO_input_value"]</CustomerChangeHouseNumber>
+    <CustomerChangeBuildingName type="text">//*[@id="homeAddrBuildName_input_value"]</CustomerChangeBuildingName>
+    <CustomerChangeAddressLine1 type="text">//*[@id="homeAddr1st_input_value"]</CustomerChangeAddressLine1>
+    <CustomerChangeAddressLine2 type="text">//*[@id="homeAddr2nd_input_value"]</CustomerChangeAddressLine2>
+    <CustomerChangeTown type="text">//*[@id="homeAddrCity_input_value"]</CustomerChangeTown>
+    <CustomerChangeCountry type="text">//*[@id="homeAddrCounty_input_value"]</CustomerChangeCountry>
+    <CustomerChangePostCode type="text">//*[@id="homeAddrPostcode_input_value"]</CustomerChangePostCode>
+    <CustomerChangeOfficeHouseNumber type="text">//*[@id="officeAddrBuidNO_input_value"]</CustomerChangeOfficeHouseNumber>
+    <CustomerChangeOfficeBuildingName type="text">//*[@id="officeAddrBuildName_input_value"]</CustomerChangeOfficeBuildingName>
+    <CustomerChangeOfficeAddressLine1 type="text">//*[@id="officeAddr1st_input_value"]</CustomerChangeOfficeAddressLine1>
+    <CustomerChangeOfficeAddressLine2 type="text">//*[@id="officeAddr2nd_input_value"]</CustomerChangeOfficeAddressLine2>
+    <CustomerChangeOfficeTown type="text">//*[@id="officeAddrCity_input_value"]</CustomerChangeOfficeTown>
+    <CustomerChangeOfficeCountry type="text">//*[@id="officeAddrCounty_input_value"]</CustomerChangeOfficeCountry>
+    <CustomerChangeOfficePostCode type="text">//*[@id="officeAddrPostcode_input_value"]</CustomerChangeOfficePostCode>
   </Frame>
 </ProxyData>
