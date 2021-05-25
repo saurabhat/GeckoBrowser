@@ -18,10 +18,14 @@
     <AccountNumber type="text">/html/body/div[1]/div[6]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[3]/div/div[3]/label</AccountNumber>
     <BankName type="text">/html/body/div[1]/div[6]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td[1]/div/div[3]/label</BankName>
 
-    <NameOnCard type="text">/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[1]/div/div[3]/label</NameOnCard>
-    <CardNumber type="text">/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</CardNumber>
-    <CardType type="text">/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[3]/div/div[3]/label</CardType>
-    <ExpiryDate type="text">/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td[1]/div/div[3]/label</ExpiryDate>
+    <NameOnCard1 type="text">/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[1]/div/div[3]/label</NameOnCard1>
+    <NameOnCard2 type="text">/html/body/div[1]/div[5]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[1]/div/div[3]/label</NameOnCard2>
+    <CardNumber1 type="text">/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</CardNumber1>
+    <CardNumber2 type="text">/html/body/div[1]/div[5]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</CardNumber2>
+    <CardType1 type="text">/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[3]/div/div[3]/label</CardType1>
+    <CardType2 type="text">/html/body/div[1]/div[5]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[3]/div/div[3]/label</CardType2>
+    <ExpiryDate1 type="text">/html/body/div[1]/div[7]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td[1]/div/div[3]/label</ExpiryDate1>
+    <ExpiryDate2 type="text">/html/body/div[1]/div[5]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[3]/td[1]/div/div[3]/label</ExpiryDate2>
   </Frame>
   <Frame id="zSubscriberInfo_SubscriberDetail_iframe" elementId="" xpath="">
     <SubscriberSSN type="text">/html/body/div[1]/div[2]/table/tbody/tr[2]/td/div/div[2]/div/table/tbody/tr[3]/td[2]/div/div[3]/label</SubscriberSSN>
@@ -34,8 +38,7 @@
   </Frame>
   <Frame id="" elementId="acctInformation_content" xpath="">
     <ModifyAccountNumber type="text">/html/body/div[1]/div[5]/div[4]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</ModifyAccountNumber>
-    <ModifyAccountCardNumber type="text">/html/body/div[1]/div[5]/div[5]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</ModifyAccountCardNumber>
-    <ModifyAccountTitle type="select">//*[@id="title_input_select"]</ModifyAccountTitle>
+    <ModifyAccountCardNumber type="text">/html/body/div[1]/div[5]/div[5]/div[2]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/div[3]/label</ModifyAccountCardNumber>    
     <ModifyAccountFirstName type="value">//*[@id="name1_input_value"]</ModifyAccountFirstName>
     <ModifyAccountLastName type="value">//*[@id="name3_input_value"]</ModifyAccountLastName>
   </Frame>
