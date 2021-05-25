@@ -51,4 +51,8 @@
   <Frame id="" elementId="editPanle_content" xpath="">
     <CurrentSSN type="value">//*[@id="oldsimid_input_value"]</CurrentSSN>
   </Frame>
+  <Frame id="" elementId="changesubinfo" xpath="">
+     <ModifySSN>//*[@id="ssn_input"]</ModifySSN>
+     <ModifyIMSI>//*[@id="IMSI_input"]</ModifyIMSI>
+  </Frame>
 </ProxyData>
